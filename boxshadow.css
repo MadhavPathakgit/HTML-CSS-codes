@@ -1,0 +1,14 @@
+div{
+    height: 1000px;
+    width:1000px;
+    background-color: chartreuse;
+    margin :0 auto;
+    padding-top: 50px;
+    text-align: center;
+    border: 8px solid  black;
+    box-shadow:50px 50px 5px rgb(229, 103, 103) ;
+    background-image: url("403880.jpg");
+    background-size: auto;
+color: bisque;
+font-size:  200px;
+}

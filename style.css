@@ -1,0 +1,54 @@
+*{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color:rgb(237, 19, 121);
+}
+
+#login{color: brown;
+
+}
+
+#signup{color: red;
+
+}
+.a{
+    color:black
+}
+
+p a{
+    color: purple;
+    background-color: green;
+}
+nav ul li a{color: green;
+}
+input[type="text"]{
+    color:red;
+}
+
+input[type="password"]{
+    color:goldenrod;
+}
+button:hover{
+    background-color: black;
+}
+h3:hover{
+    background-color: black;
+}
+button:active{
+    background-color: pink;
+}
+p:active{
+    font-weight: 700;
+    color: chartreuse;
+}
+ input[type = "radio"]:checked+label{
+    background-color: rgb(37, 26, 192);
+
+ }
+ .post:nth-of-type(2){
+    background-color: mediumseagreen;
+ }
+ h1::first-letter{
+    color: greenyellow;
+ }
+ h1::se lection{
+    background-color: chartreuse;
+ }

@@ -1,0 +1,33 @@
+div{
+    height: 200px;
+    width: 400px;
+    background-color: blanchedalmond;
+    border-width: 5px;
+    border-style: solid;
+    border-top-right-radius: 50px;
+    border-color: black;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-bottom:50px ;
+
+}
+h1{
+    border-width:2px;
+    border-style: dashed;
+    border-color: rgb(160, 12, 123);
+    border-top-color: blue;
+    border-top-style:double;
+    border-bottom-style:double;
+    border-bottom-color: blue;
+    border-left-width:7px;
+
+
+} 
+
+button{
+    border:20px solid greenyellow;
+    padding: 50px;
+
+
+}

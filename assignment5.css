@@ -1,0 +1,38 @@
+#box1{
+    width:100px;
+    height:100px;
+    background: green;
+    transition: width 2s ease-in 0.5s;
+}
+#box1:hover{ width: 600px;
+
+}
+#box2{
+    width: 100px;
+    height: 100px;
+    background:red;
+    transform: rotate(90deg);
+    transform:translateX(200px);
+    transform: translateY(200px);
+}
+
+ #box3{ width: 100px;
+     height: 100px;
+    background-color: lightblue;
+    transform: skewX(20deg);
+    }
+    #box4{
+        width:100px;
+        height: 100px;
+        margin:0 auto;
+    background-color: lightgreen;
+    box-shadow: 2px 2px 5px green;
+    }
+    #mypic{ 
+        width: 200px;
+        height: 220px;
+        background-color: pink;
+        background-image: url(natasha.jpg);
+        background-size: contain;
+        opacity: 50px;
+    }
